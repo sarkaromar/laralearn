@@ -5,3 +5,6 @@ footer{
 header{
     margin-bottom: 50px;
 }
+.list-group li{
+    list-style: none;
+}
